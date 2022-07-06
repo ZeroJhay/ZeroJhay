@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZeroJhay
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning php, lua and c++
+- 📫 How to reach me oneillvinau7@gmail.com
